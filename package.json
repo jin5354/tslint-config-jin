@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-jin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tslint-config-jin",
   "main": "index.js",
   "scripts": {

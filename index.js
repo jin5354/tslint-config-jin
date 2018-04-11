@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['tslint-eslint-standard'],
+  extends: ['tslint-config-standard'],
   rules: {
     'space-before-function-paren': false,
     whitespace: false
