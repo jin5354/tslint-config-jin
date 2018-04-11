@@ -1,0 +1,14 @@
+{
+  "name": "tslint-config-jin",
+  "version": "1.0.0",
+  "description": "tslint-config-jin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jin5354<xiaoyanjinx@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tslint-config-standard": "^7.0.0"
+  }
+}
